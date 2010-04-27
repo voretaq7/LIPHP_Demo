@@ -6,4 +6,5 @@
 
 phpinfo();
 
+echo "OK, happy now?\n\n";
 ?>
